@@ -507,4 +507,4 @@ var INIT_COIGIG = [		//关卡
 
 var INIT_NPC_COLOR = ['#F00','#F93','#0CF','#F9C'];
 
-var INIT_PALYER_LIFE = 5;
+var INIT_PALYER_LIFE = 2;
